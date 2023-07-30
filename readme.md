@@ -1,6 +1,6 @@
 # NumbSpyBot - Программа для ...
 
-![NumbSpyBot Logo](https://github.com/D1splay/NumbSpyBot/logo.png)
+![NumbSpyBot Logo](https://github.com/D1splay/NumbSpyBot/blob/main/logo.png)
 
 ## Отказ от ответственности
 
