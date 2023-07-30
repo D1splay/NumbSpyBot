@@ -1,4 +1,4 @@
-# NumbSpyBot - Программа для ...
+# NumbSpyBot - Программа для социальной инженерии!
 
 ![NumbSpyBot Logo](https://github.com/D1splay/NumbSpyBot/blob/main/logo.png)
 
