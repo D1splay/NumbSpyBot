@@ -1,0 +1,6 @@
+{
+    "start.msg": "Click on the button to share your contact.",
+    "error.start.msg": "Error: You have already provided your number.",
+    "button": "Share your contact",
+    "successful": "Thank you! Your number has been saved."
+}
