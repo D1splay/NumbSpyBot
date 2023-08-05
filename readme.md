@@ -14,9 +14,7 @@
 Ответ: Эта программа была разработана на Python с использованием библиотеки aiogram. Вам нужно подключить бота к этой программе и отправить ссылку на вашего бота. После перехода пользователю будет предложено оставить свой номер для использования ботом. Если пользователь разрешит, то его номер телефона, username и chat id будут записаны в файл data.txt. Все последующие пользователи будут записаны ниже.
 
 ## Установка (linux)
-
-<iframe width="964" height="542" src="https://www.youtube.com/embed/5imHyXX_dR8" title="NumbSpyBot - гайд" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<video>https://www.youtube.com/watch?v=5imHyXX_dR8</video>
 Чтобы установить NumbSpyBot на вашем компьютере, выполните следующие шаги:
 
 1. Клонирование репозитория:
