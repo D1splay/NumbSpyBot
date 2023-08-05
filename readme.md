@@ -15,7 +15,7 @@
 
 ## Установка (linux)
 
-[Видео гайд!](https://youtu.be/5imHyXX_dR8)
+<iframe width="964" height="542" src="https://www.youtube.com/embed/5imHyXX_dR8" title="NumbSpyBot - гайд" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Чтобы установить NumbSpyBot на вашем компьютере, выполните следующие шаги:
 
