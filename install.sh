@@ -28,7 +28,7 @@ sudo pip3 install platform
 sudo pip3 install subprocess
 sudo pip3 install logging
 sudo pip3 install asyncio
-sudo pip3 install aiogram
+sudo pip3 install aiogram==2.25.1
 
 
 python3 - <<EOF
